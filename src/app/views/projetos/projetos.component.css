@@ -1,0 +1,20 @@
+section {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin:auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.content1 {
+    text-align: center;
+    font-size:large;
+}
+.imagem{
+    display: flex;
+    flex:auto;
+    margin: auto;
+    margin-bottom: 20px;
+
+}

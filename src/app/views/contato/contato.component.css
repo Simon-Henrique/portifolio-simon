@@ -1,0 +1,23 @@
+section {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin:auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.content1 {
+    text-align: center;
+    font-size:large;
+}
+.main a {
+    text-decoration: none;
+}
+.link {
+    color:black
+    
+}
+.material-icons {
+    vertical-align: middle;
+}
