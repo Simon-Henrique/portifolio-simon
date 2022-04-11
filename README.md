@@ -1,2 +1,2 @@
 # portifolio-simon
-https://simon-dev-portifolio.netlify.app/
+https://simon-dev-portfolio.netlify.app/
