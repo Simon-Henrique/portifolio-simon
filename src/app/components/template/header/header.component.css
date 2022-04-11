@@ -1,20 +1,22 @@
 .header {
-    display:flex;
+    display:flex;  
+    justify-content: flex-end;
     align-items:center;
 }
-.header a {
-    display: flex;
-    align-items: center;
+.header a {        
     text-decoration:none;
 }
 .logo {
     max-height: 160px;
-    padding-right: 700px;
-    
+
 }
 .nav {
-    padding-left: 30px;
     color: rgb(154, 152, 149);
     font-weight: 100;
-    font-size:medium    
+    font-size:medium;
+    padding-right: 20px;  
+}
+.box {
+    justify-self: flex-start;
+    margin-right: auto;
 }
