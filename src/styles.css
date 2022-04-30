@@ -1,15 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%;  }
+html, body { height: 100%;   }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
        background-image: linear-gradient(to right, rgb(85, 99, 227) , rgb(75, 231, 225));
     
 }
-.main { /*configuraçãao não compatível com mobiles*/
+.main { 
+       display:flex;
+       flex-wrap: wrap;
        width: 90vw;
        margin:0 auto;
        padding: 30px 20px;
-       min-height: calc(115vh - 211px - 58px);
+       min-height: calc(115vh - 211px - 40px);
    }
 section {
        background-color: #fff;

@@ -8,6 +8,7 @@
 }
 .logo {
     max-height: 160px;
+    max-width: 100%;
 
 }
 .nav {

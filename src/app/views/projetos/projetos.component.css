@@ -3,9 +3,12 @@
     font-size:large;
 }
 .imagem{
-    display: flex;
-    flex:auto;
-    margin: auto;
+    text-align: center;
     margin-bottom: 20px;
+    max-width: 100%;
+
+}
+section {
+    text-align: center;
 
 }
