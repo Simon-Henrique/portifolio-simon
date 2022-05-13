@@ -20,15 +20,18 @@ section {
        height: fit-content;
        width:550px;
        margin:auto;
-       margin-top: 60px;
-         
+       margin-top: 60px;         
        margin-bottom: 60px;
    }
 
    .background {
-       background-image: url('./assets/img/test2.png');
+       /* background-image: url('./assets/img/backgroundteste.png');
        background-repeat: no-repeat;
        background-attachment: fixed;
-       background-size:cover;
+       background-size:cover; */
+       background: #373B44;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
    }
 
